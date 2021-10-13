@@ -1,0 +1,14 @@
+  
+.carousel-img {
+  height: calc(100vh - 23px*2);
+  object-fit: cover;
+}
+
+.card .card-body .icon {
+  font-size: 3rem;
+}
+
+.card .card-img-top {
+  height: 300px;
+  object-fit: cover;
+}
