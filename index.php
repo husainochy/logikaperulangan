@@ -2,55 +2,59 @@
 
 $artikel = array (
   (object) array (
-    "gambar" => "https://images.unsplash.com/photo-1556595101-15dc5f6431e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-    "judul" => "Title 1",
-    "text" => "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste dolorem deserunt dignissimos, doloribus minus reprehenderit laborum molestiae fugit corrupti nesciunt repellendus accusantium quod magnam harum nobis! Asperiores obcaecati dignissimos recusandae."
+    "gambar" => "image/01ampenan.jpg",
+    "judul" => "Pantai Ampenan",
+    "text" => "Pantai Wisata Kota Tua Ampenan menjadi destinasi wisata andalan yang ada di Kota Mataram, NTB. Letaknya yang tak jauh dari pusat kota, membuat Pantai Ampenan tidak pernah sepi dari pengunjung.Selain menyaksikan keindahan matahari terbenam, pengunjung juga bisa menikmati sajian kuliner khas Lombok yang tersedia di Pantai Ampenan. Sejumlah sarana fasilitas pendukung wisata, seperti toilet, parkir kendaraan, hingga mushala tersedia."
   ),
   (object) array (
-    "gambar" => "https://images.unsplash.com/photo-1556595101-15dc5f6431e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-    "judul" => "Title 2",
-    "text" => "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste dolorem deserunt dignissimos, doloribus minus reprehenderit laborum molestiae fugit corrupti nesciunt repellendus accusantium quod magnam harum nobis! Asperiores obcaecati dignissimos recusandae."
+    "gambar" => "image/02matajitu.jpg",
+    "judul" => "Air Terjun Mata Jitu",
+    "text" => "Wisata air terjun selalu menjadi daya pikat bagi wisatawan di mana pun berada. Mulai dari ujung timur hingga barat, berbagai pesona air terjun di Indonesia selalu terlihat memesona. Salah satu pesona air terjun yang tidak boleh dilewatkan adalah Mata Jitu yang berada di Sumbawa, Nusa Tenggara Barat (NTB). Air terjun yang masuk dalam cagar alam ini diperkirakan sudah ada sejak jutaan tahun lalu. Air terjun ini memiliki keunikan, yaitu mirip kolam renang yang berundak-undak. Bebatuannya merupakan stalaktit dan stalagmit yang terbentuk secara alami. Airnya berwarna hijau dan jernih. Mampu menghipnotis wisatawan. Saking indahnya, air terjun ini terkenal hingga mancanegara. Bahkan Putri Diana, Mick Jagger, dan sederet tokoh ternama dari luar negeri pernah singgah ke air terjun ini."
   ),
   (object) array (
-    "gambar" => "https://images.unsplash.com/photo-1556595101-15dc5f6431e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-    "judul" => "Title 3",
-    "text" => "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste dolorem deserunt dignissimos, doloribus minus reprehenderit laborum molestiae fugit corrupti nesciunt repellendus accusantium quod magnam harum nobis! Asperiores obcaecati dignissimos recusandae."
+    "gambar" => "image/03sangkareang.jpg",
+    "judul" => "Taman Sangkareang",
+    "text" => "Taman Sangkareang merupakan salah satu detinasi wisata menarik di wilayah Lombok. Teman Traveler bisa menemukan berbagai macam hiburan, mulai dari permainan anak-anak sampai hiburan orang dewasa. Beberapa sudutnya juga dipadati spot selfie. Penasaran dengan bagaimana keindahan dan serunya berjalan-jalan di Taman Sangkareang? Mari simak pengalaman kontributor Travelingyuk, Aziz Syahroni, berikut ini. Taman wisata Sangkareang terletak di Jl Pejanggik, Mataram Baru, Selaparang , Mataram, NTB. Lokasi ini terbuka selama 24 jam penuh. Tak jarang digunakan untuk acara-acara besar. Begitu sampai di lokasi, Teman Traveler akan disambut gerbang bertuliskan Taman Sangkareang dengan hiasan bagus plus tangga menarik. Pas banget untuk ber-selfie dengan teman maupun kerabat. Kalian juga bisa mengagumi pohon khas dan bung-bunga di setiap sudut taman. Pokoknya suasananya bagus banget dan bersih."
   ),
   (object) array (
-    "gambar" => "https://images.unsplash.com/photo-1556595101-15dc5f6431e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-    "judul" => "Title 4",
-    "text" => "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste dolorem deserunt dignissimos, doloribus minus reprehenderit laborum molestiae fugit corrupti nesciunt repellendus accusantium quod magnam harum nobis! Asperiores obcaecati dignissimos recusandae."
+    "gambar" => "image/04senggigi.jpg",
+    "judul" => "Pantai Senggigi",
+    "text" => "Pantai Senggigi adalah tempat pariwisata yang terkenal di Lombok. Letaknya di sebelah barat pesisir Pulau Lombok. Pantai Senggigi memang tidak sebesar Pantai Kuta di Bali, tetapi seketika kita berada di sini akan merasa seperti berada di Pantai Kuta, Bali. Memasuki area pantai Senggigi, wisatawan seta merta disapa oleh lembutnya angin semilir yang menenangkan. Pesisir pantainya masih asri, walaupun masih ada sampah dedaunan yang masih berserakan karena jarang dibersihkan. Pemandangan bawah lautnya sangat indah, dan wisatawan bisa melakukan selam permukaan (snorkeling) sepuasnya karena ombaknya tidak terlalu besar. Terumbu karangnya menjulang ketengah menyebabkan ombak besarnya pecah di tengah. Tersedia juga hotel-hotel dengan harga yang bervariasi, dari yang mahal sampai hotel yang berharga ekonomis."
   ), 
   (object) array (
-    "gambar" => "https://images.unsplash.com/photo-1556595101-15dc5f6431e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-    "judul" => "Title 4",
-    "text" => "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste dolorem deserunt dignissimos, doloribus minus reprehenderit laborum molestiae fugit corrupti nesciunt repellendus accusantium quod magnam harum nobis! Asperiores obcaecati dignissimos recusandae."
+    "gambar" => "image/05mandalika.jpg",
+    "judul" => "Pantai Mandalika",
+    "text" => "Kawasan wisata pantai Mandalika, Lombok, Nusa Tenggara Barat, dalam daftar teratas pilihan berlibur akhir tahun Anda.
+
+Kawasan wisata ini berdekatan dengan beberapa pantai indah yang ada di sebelah selatan pulau Lombok. Masih bersuasana alam asli yang belum terlalu banyak terjamah, wilayah ini begitu kaya dengan keindahan hamparan pesisir pantai yang luas, lengkap dengan kelembutan pasir putihnya. Mulai dari Pantai Kuta Mandalika, Pantai Seger, Pantai Serenting, Putri Nyale, Pantai Tanjung Aan, sampai Pantai Gerupuk"
   ), 
   (object) array (
-    "gambar" => "https://images.unsplash.com/photo-1556595101-15dc5f6431e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
-    "judul" => "Title 4",
-    "text" => "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste dolorem deserunt dignissimos, doloribus minus reprehenderit laborum molestiae fugit corrupti nesciunt repellendus accusantium quod magnam harum nobis! Asperiores obcaecati dignissimos recusandae."
+    "gambar" => "image/06pantaipink.jpg",
+    "judul" => "Pantai PINK",
+    "text" => "Sesuai dengan namanya, ada salah satu bagian dari pantai ini yang berwarna pink. Hal itu memang benar adanya karena salah satu bagian pantainya yaitu pasir memiliki warna merah muda atau pink.
+
+Warna merah muda dari pasir ini akan terlihat sangat jelas ketika ombak telah menyapu tepi pantai. Pasir di pantai ini juga sangat lembut dan cocok untuk berjemur."
   ), 
 );
 
 $carousel = array (
   (object) array (
     "active" => "active",
-    "gambar" => "https://images.unsplash.com/photo-1501183638710-841dd1904471?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2070&q=80",
-    "judul" => "Title 1",
-    "text" => "text 2"
+    "gambar" => "image/west_nusa_tenggara.png",
+    "judul" => "NTB privins is wondeful",
+    "text" => "Nusa Tenggara barat sejuta lokasi wisata yang cantik"
   ),
   (object) array (
     "active" => "",
-    "gambar" => "https://images.unsplash.com/photo-1493663284031-b7e3aefcae8e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhvbWV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
-    "judul" => "Title 2",
-    "text" => "text 2"
+    "gambar" => "image/wisatalombok.jpg",
+    "judul" => "Lombok is Wonderland",
+    "text" => "Lombok dengan sejuta pensona keindahan alam"
   ),
   (object) array (
     "active" => "",
-    "gambar" => "https://images.unsplash.com/photo-1519643225200-94e79e383724?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1476&q=80",
-    "judul" => "Title 3",
-    "text" => "text 2"
+    "gambar" => "image/sirkuitGPmandalika.jpg",
+    "judul" => "Sirkuit Mandalika Moto GP",
+    "text" => "Mari Ramekan Nonton Moto GP di Lombok"
   )
 )
 
@@ -89,8 +93,8 @@ $carousel = array (
                 Dropdown
               </a>
               <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                <li><a class="dropdown-item" href="#">Action</a></li>
-                <li><a class="dropdown-item" href="#">Another action</a></li>
+                <li><a class="dropdown-item" href="#">Daftar lengkap Lokasi wisata Lombok</a></li>
+                <li><a class="dropdown-item" href="#">Daftar Lengkap Lokasi Wisata Sumbawa</a></li>
                 <li><hr class="dropdown-divider"></li>
                 <li><a class="dropdown-item" href="#">Something else here</a></li>
               </ul>
